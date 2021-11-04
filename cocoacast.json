@@ -1,0 +1,30 @@
+[
+  {
+    "id": 317,
+    "plus": false,
+    "title": "Debugging Applications With Reveal",
+    "excerpt": "In [Debugging Applications With Xcode](https://cocoacasts.com/series/debugging-applications-with-xcode), we explored [Xcode's built-in view debugger](https://cocoacasts.com/debugging-applications-with-xcode-view-and-view-controller-debugging). While I occasionally use Xcode's view debugger to debug user interface issues, I mostly use [Reveal](https://revealapp.com/), a third party application developed and maintained by [Itty Bitty Apps](http://www.ittybittyapps.com/). In this episode, I show you how Reveal compares to Xcode's built-in view debugger and why I prefer Reveal over Xcode to debug user interface issues.",
+    "swift": 4,
+    "xcode": 9,
+    "platform_name": "ios",
+    "platform_version": 11,
+    "author": "Jim Johnson",
+    "thumbnail_url": "https://cocoacasts.s3.amazonaws.com/debugging-applications-with-reveal/debugging-applications-with-reveal.svg",
+    "collection": null,
+    "published_at": "2018-04-17T04:30:00+00:00"
+  },
+  {
+    "id": 318,
+    "plus": false,
+    "title": "Debugging Applications With Reveal",
+    "excerpt": "In [Debugging Applications With Xcode](https://cocoacasts.com/series/debugging-applications-with-xcode), we explored [Xcode's built-in view debugger](https://cocoacasts.com/debugging-applications-with-xcode-view-and-view-controller-debugging). While I occasionally use Xcode's view debugger to debug user interface issues, I mostly use [Reveal](https://revealapp.com/), a third party application developed and maintained by [Itty Bitty Apps](http://www.ittybittyapps.com/). In this episode, I show you how Reveal compares to Xcode's built-in view debugger and why I prefer Reveal over Xcode to debug user interface issues.",
+    "swift": 4,
+    "xcode": 9,
+    "platform_name": "ios",
+    "platform_version": 11,
+    "author": "Jim Johnson",
+    "thumbnail_url": "https://cocoacasts.s3.amazonaws.com/debugging-applications-with-reveal/debugging-applications-with-reveal.svg",
+    "collection": null,
+    "published_at": "2018-04-17T04:30:00+00:00"
+  }
+]
